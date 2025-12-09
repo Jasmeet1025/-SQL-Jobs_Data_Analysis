@@ -68,13 +68,7 @@ Key fields include:
     Jobs-Data-Analysis/
     │
     ├── sql/
-    │   ├── DDL_JOBS.sql
     │   └── JOBS_DATA_ANALYSIS_PROJECT.sql
-    │
-    ├── data/              (optional)
-    ├── notebooks/         (optional)
-    ├── images/            (optional)
-    │
     └── README.md
 
 ## 📌 How to Use
